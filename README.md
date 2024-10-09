@@ -20,9 +20,9 @@ Integrated Google Sign-In for both Android and iOS platforms using OAuth.
 
 ### Packages Used
 
-`supabase_flutter` – To handle authentication and database interactions.
-`flutter_appauth` – For OAuth authentication with Google on iOS.
-`google_sign_in` – For Google sign-in on Android.
+`supabase_flutter` – To handle authentication and database interactions.<br />
+`flutter_appauth` – For OAuth authentication with Google on iOS.<br />
+`google_sign_in` – For Google sign-in on Android.<br />
 `crypto` – For generating secure, random strings and SHA256 hashing.
 
 ### Setup Instructions
